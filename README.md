@@ -1,0 +1,3 @@
+# AutoEditDocPython
+根据存储多个doc文件的文件夹路径，进行对多个文件的名字修改，替换doc文件内部table和paragraphs的关键词，最后根据文件名称中的时间信息将文件分别存入新的文件路径。
+
